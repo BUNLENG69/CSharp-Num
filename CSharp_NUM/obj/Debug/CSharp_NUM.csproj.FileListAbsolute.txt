@@ -1,0 +1,7 @@
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\bin\Debug\CSharp_NUM.exe.config
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\bin\Debug\CSharp_NUM.exe
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\bin\Debug\CSharp_NUM.pdb
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\obj\Debug\CSharp_NUM.csproj.AssemblyReference.cache
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\obj\Debug\CSharp_NUM.csproj.CoreCompileInputs.cache
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\obj\Debug\CSharp_NUM.exe
+D:\my_project\num\CSharp_Console\CSharp_NUM\CSharp_NUM\obj\Debug\CSharp_NUM.pdb

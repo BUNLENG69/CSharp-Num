@@ -10,6 +10,17 @@ namespace CSharp_NUM
     {
         static void Main(string[] args)
         {
+            //var salaryTax = new SalaryTaxAppSystem();
+            //salaryTax.salaryApp();
+
+            //var scoreManagement = new ScoreManagementSystem();
+            //scoreManagement.scoreApp();
+
+            var depositApp = new DepositApplicationSystem();
+            depositApp.Run();
+
+
+            Console.ReadKey();
         }
     }
 }
